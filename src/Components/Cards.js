@@ -24,7 +24,7 @@ const Cards = () => {
     
     <div className='container mt-3'>
    
-      <h2 className='text-ACP'>Add to Cart Projects</h2>
+      <h2 className='text-ACP'> 🍽️ Night 👨‍🍳 King 🍴</h2>
      
 
       
